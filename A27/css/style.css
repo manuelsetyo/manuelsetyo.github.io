@@ -248,3 +248,7 @@ footer {
     float: none;
   }
 }
+
+.box .col-4:hover {
+    color: #fea711;
+}
