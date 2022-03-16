@@ -67,9 +67,9 @@ header {
 }
 
 header h1 {
-	float: left;
-	padding: 15px 0;
-	color: #fff;
+  float: left;
+  padding: 15px 0;
+  color: #fff;
 }
 
 header ul {
@@ -147,9 +147,9 @@ section h2 {
 
 /* Loader */
 @keyframes berputar {
-	100% {
-		transform: rotate(360deg);
-	}
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 
@@ -157,7 +157,7 @@ section h2 {
 
 /* Responsif Tablet */
 @media screen and (max-width: 768px){
-	.container {
+  .container {
     width: 90%;
   }
 
