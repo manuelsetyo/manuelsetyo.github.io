@@ -2,4 +2,4 @@
  <h3>Dibuat Oleh</h3>
  > Manuel Setyo Saputro Sriwibowo<br>
 <br>
-<h3><a href="https://manuelsetyo.github.io/Kalkulator/">Demo</a></h3>
+> <h3><a href="https://manuelsetyo.github.io/Kalkulator/">Demo</a></h3>
